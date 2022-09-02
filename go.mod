@@ -22,7 +22,7 @@ require (
 	github.com/facette/natsort v0.0.0-20181210072756-2cd4dd1e2dcb
 	github.com/go-kit/log v0.2.0
 	github.com/go-logfmt/logfmt v0.5.1
-	github.com/go-redis/redis/v8 v8.11.4
+	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-test/deep v1.0.8
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogo/status v1.1.1
@@ -40,7 +40,7 @@ require (
 	github.com/jaegertracing/jaeger v1.31.0
 	github.com/jedib0t/go-pretty/v6 v6.2.4
 	github.com/json-iterator/go v1.1.12
-	github.com/jsternberg/zap-logfmt v1.2.0
+	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/klauspost/compress v1.15.7
 	github.com/minio/minio-go/v7 v7.0.16-0.20211116163909-d00629356463
 	github.com/mitchellh/mapstructure v1.5.0
@@ -62,7 +62,7 @@ require (
 	github.com/prometheus/prometheus v1.8.2-0.20220228151929-e25a59925555
 	github.com/prometheus/statsd_exporter v0.21.0 // indirect
 	github.com/segmentio/fasthash v0.0.0-20180216231524-a72b379d632e
-	github.com/segmentio/parquet-go v0.0.0-20220829181003-2ef012b80dbc
+	github.com/segmentio/parquet-go v0.0.0-20220831210521-f812768dfa62
 	github.com/sirupsen/logrus v1.8.1
 	github.com/sony/gobreaker v0.4.1
 	github.com/spf13/viper v1.12.0
